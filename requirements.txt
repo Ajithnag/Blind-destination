@@ -1,0 +1,12 @@
+pyttsx3==2.90
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.8.2
+opencv-python==4.10.0.84
+numpy==2.1.1
+# Optional STT engines
+SpeechRecognition==3.10.4
+# vosk (offline STT) is optional; install if you want offline voice input
+# vosk==0.3.45
+# Optional vision (YOLO)
+# ultralytics==8.2.100
